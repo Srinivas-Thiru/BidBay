@@ -1,4 +1,4 @@
-# CS50W-Commerce-Srinivas-Thiru.github.io
+# E-Commerce-WebApp-DJANGO-Srinivas-Thiru.github.io
 
 # Auction Web Application
 
