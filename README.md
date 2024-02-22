@@ -1,4 +1,4 @@
-# E-Commerce-WebApp-DJANGO-Srinivas-Thiru.github.io
+# E-Commerce-WebApp
 
 # Auction Web Application
 
