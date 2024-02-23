@@ -1,6 +1,6 @@
 # BidBay
 
-# Auction Web Application
+## Auction Web Application
 
 This is a web application built using Django and PostgreSQL that allows users to participate in auctions by bidding on active listings. Users can create accounts, log in, and register for auctions. The application includes several key features such as adding products to a watchlist, filtering products by category, and sending alerts to the highest bidder.
 
